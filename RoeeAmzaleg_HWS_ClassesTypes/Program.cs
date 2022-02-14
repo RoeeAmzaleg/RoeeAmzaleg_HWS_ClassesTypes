@@ -192,39 +192,5 @@ namespace RoeeAmzaleg_HWS_ClassesTypes
         }
         #endregion
 
-       
-
-        //#region EXR Exepion
-        //public class Costumer
-        //{
-        //    public static void OrderDish()
-        //    {
-
-        //        Costumer c = new Costumer();
-        //        c.MakeDish("what is the dish?");
-        //    }
-
-
-        //    public class Chef
-        //    {
-
-        //        public static void MakeDish(string Dish)
-        //        {
-        //            try
-        //            {
-        //                if (Dish == "pita")
-        //                    throw new PitaOutOfRangeExeption("thers not a lot of pitot")
-        //            }
-        //            catch (PitaOutOfRangeExeption ex)
-        //            {
-
-        //            }
-        //        }
-
-
-        //    }
-        //}
-        //#endregion
-    
     }
 }
